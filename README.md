@@ -1,6 +1,6 @@
 **Introduction**
 
-I am Sohrab Farooq, a seasoned cybersecurity entrepreneur, researcher, and educator based in Toronto, Canada. With a strong passion for exploring the intersection of AI and cybersecurity, my work revolves around developing innovative solutions that leverage machine learning, deep learning, and other AI technologies to enhance the security of information systems.
+I am Sohrab Farooq, a passionate cybersecurity entrepreneur, researcher, and educator based in Toronto, Canada. With a strong passion for exploring the intersection of AI and cybersecurity, my work revolves around developing innovative solutions that leverage machine learning, deep learning, and other AI technologies to enhance the security of information systems.
 
 My company, Info System Consultants, is dedicated to providing top-notch cybersecurity services for small to medium-sized businesses in the GTA area. Alongside my commercial work, I also teach cybersecurity and actively engage in research, contributing to the cutting-edge development of AI-powered security tools.
 Background
